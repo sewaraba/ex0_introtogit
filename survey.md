@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color:black 
+Favorite food: crispy
+Favorite musician/band:m7md saed 
+Favorite movie: avatar
+Requested grade in the course:99 
